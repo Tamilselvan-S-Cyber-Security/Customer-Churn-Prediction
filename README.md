@@ -192,4 +192,10 @@ Feel free to fork the project and submit pull requests for any improvements.
 MIT License
 
 ## Author ✍️
-S.Tamilselvan - Customer Churn Analysis Expert
+## College 🏫
+SKP Engineering College,
+Tirvannamalai.
+## Devlopers 👩🏻‍💻
+1. S.Tamilselvan 
+2. P. Vikram
+3. K. Pugazhmani 
