@@ -1,0 +1,6 @@
+D:\anaconda3\envs\dlib_env\lib\site-packages\sklearn\impute\_base.py:635: UserWarning: Skipping features without any observed values: ['Gender' 'PhoneService' 'MultipleLines' 'InternetService'
+ 'OnlineSecurity' 'OnlineBackup' 'DeviceProtection' 'TechSupport'
+ 'StreamingTV' 'StreamingMovies' 'Contract' 'PaperlessBilling'
+ 'PaymentMethod' 'Churn']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+An error occurred during data preprocessing: Shape of passed values is (40, 4), indices imply (40, 18)
